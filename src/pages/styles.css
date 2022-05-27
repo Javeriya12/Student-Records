@@ -1,0 +1,24 @@
+.component-container{
+    background-color: rgb(171, 120, 219);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.input-container{
+    background-color: rgb(219, 197, 241);
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 50px;
+}
+.inputsCon{
+    padding: 15px 10px;
+    width: 300px;
+    
+}
+.create-account-button{
+    margin-top: 10px;
+    padding:10px;
+}
